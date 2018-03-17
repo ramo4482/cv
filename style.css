@@ -9,7 +9,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 }
 .ustbar{
-	background-color: #8e44ad;
+	background-color: #0bac99;
 	height: 200px;
 	width: auto;
 	left: 0px;
@@ -29,7 +29,7 @@ body{
 	margin-right: 20px !important;
 }
 .resim{
-	background: url("img/profile.png");
+	background: url("img/deneme.jpg");
 	height: 180px;
 	width: 180px;
 	background-size: cover;
@@ -92,7 +92,8 @@ h5{
 	margin:0px;
 	padding: 0px;
 	font-size: 15px;
-	color: rgba(79, 92, 93, 0.3);
+	
+	color: black(79, 92, 93, 0.3);
 }
 a{
 	font-family: 'ABeeZee', sans-serif;
@@ -101,20 +102,20 @@ a{
 	cursor: pointer;
 }
 a:hover{
-	color: #8e44ad;
+	color: #0bac99;
 }
 h5 a{
 	color: rgba(79, 92, 93, 0.3);
 }
 h5 a:hover{
-	color: #8e44ad;
+	color: #0bac99;
 }
 .ara a{
 	font-family: 'ABeeZee', sans-serif;
 	color: rgba(0,0,0,0.5);
 }
 .ara a:hover{
-	color: #8e44ad;
+	color: #0bac99;
 }
 .bosx{
 	height: 5px;
@@ -129,7 +130,7 @@ progress::-webkit-progress-bar {
 	border-radius: 4px;
 }
 progress::-webkit-progress-value {
-	background-color: #8e44ad;
+	background-color: #0bac99;
 	border-radius: 4px;
 }
 .dil{
@@ -139,7 +140,7 @@ progress::-webkit-progress-value {
 }
 hr{
 	width: 250px;
-	border :solid 1px #8e44ad;
+	border :solid 1px #0bac99;
 	float: left;
 	margin-right: 500px;
 	margin-bottom: 20px;
